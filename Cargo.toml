@@ -1,0 +1,9 @@
+[package]
+name = "cpu-meter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chaos-framework = "0.1.2"
+sysinfo = "0.31.2"
+
