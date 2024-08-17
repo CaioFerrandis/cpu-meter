@@ -242,6 +242,7 @@ name = "cpu-meter"
 version = "0.1.0"
 dependencies = [
  "chaos-framework",
+ "glfw",
  "sysinfo",
  "tokio",
 ]
